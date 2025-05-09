@@ -1,4 +1,4 @@
-## 📦 RightClick Drag Scroll
+## 📦 RightClick Drag Scroll - (AI.md)
 
 一个零延迟触发、精准控制右键菜单和页面拖拽滚动的用户脚本。支持所有网页，完美解决中大型页面浏览、拖动难题。
 
