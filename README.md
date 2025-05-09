@@ -2,7 +2,7 @@
 
 一个零延迟触发、精准控制右键菜单和页面拖拽滚动的用户脚本。支持所有网页，完美解决中大型页面浏览、拖动难题。
 
-> 🚀 一键安装：[点击这里](https://raw.githubusercontent.com/SharkBee80/RightClick-Drag-Scroll/refs/heads/main/RightClick-Drag-Scroll.js)（需安装 [Tampermonkey](https://www.tampermonkey.net/) 插件）
+> 🚀 一键安装：[点击这里](https://www.tampermonkey.net/script_installation.php#url=https://raw.githubusercontent.com/SharkBee80/RightClick-Drag-Scroll/refs/heads/main/RightClick-Drag-Scroll.js)（需安装 [Tampermonkey](https://www.tampermonkey.net/) 插件）
 
 ---
 
@@ -20,7 +20,7 @@
 ### 🔧 使用方式
 
 1. 安装浏览器插件 [Tampermonkey](https://www.tampermonkey.net/)；
-2. 打开本脚本的 [Raw 安装链接](https://raw.githubusercontent.com/SharkBee80/RightClick-Drag-Scroll/refs/heads/main/RightClick-Drag-Scroll.js)；
+2. 打开本脚本的 [Raw 安装链接](https://www.tampermonkey.net/script_installation.php#url=https://raw.githubusercontent.com/SharkBee80/RightClick-Drag-Scroll/refs/heads/main/RightClick-Drag-Scroll.js)；
 3. 浏览器将弹出 Tampermonkey 安装界面，点击“安装”。
 
 ---
