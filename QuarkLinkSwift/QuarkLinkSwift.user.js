@@ -2299,6 +2299,7 @@ body.swal2-height-auto{height:inherit}
 	let $quark = {
 		addPageListener() {
 			$doc.on('click', '#getlink-btn', async function (e) {
+				temp.mode = 'bitcomet';
 				$quark.getLink();
 			});
 			$doc.on('click', '.pl-button-mode', async function (e) {
